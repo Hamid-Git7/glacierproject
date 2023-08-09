@@ -1,0 +1,33 @@
+body {
+    background: url(/assets/img/tangerine-newt-ogqaFRY7hAc-unsplash.jpg) center/cover;
+    background-repeat: no-repeat; 
+    min-height: 100vh; 
+}
+
+.boite_blanche {
+    background-color: white;
+    width: 1300px;
+    height: 130px;
+    margin: 0 auto;
+    margin-top: 270px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+th {
+    background-color: #c8912a;
+    padding: 10px;
+    width: 250px;
+} 
+
+select {
+    padding: 10px;
+    width: 250px;
+}
+
+.bouton_rouge {
+    background-color: rgb(139, 23, 23);
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
